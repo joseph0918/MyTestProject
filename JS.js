@@ -25,4 +25,4 @@ var json = {
   //console.log(json.std_data.parameter.purchase_data[0].purchase_no);
   console.log(json2[0].name);
 
-  
+  console.log('gogogogog');
